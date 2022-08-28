@@ -1,2 +1,2 @@
 # Exploration_Tests
-Test done with chrome extension "Test and feedback"
+Tests done with chrome extension "Test and feedback" and XRAY
